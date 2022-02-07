@@ -1,6 +1,11 @@
 use crate::Hasher;
 use blake2::{digest::FixedOutput, Digest, Blake2s256};
 
+/// This
+/// is
+/// a
+/// fake
+/// doc.
 #[derive(Clone)]
 pub struct Blake2sAlgorithm {}
 
