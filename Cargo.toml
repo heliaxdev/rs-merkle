@@ -15,6 +15,7 @@ exclude = ["/ci/*", "/scripts/*", "/.github/*", "/bors.toml"]
 
 [dependencies]
 sha2 = "0.9.8"
+blake2 = "0.10.2"
 
 # standard crate data is left out
 [dev-dependencies]
